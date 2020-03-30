@@ -7,3 +7,7 @@ Author: Azarakhsh Keipour (keipour@gmail.com)
 Last updated: March 30, 2020
 
 The code utilizes the toml implementation in MATLAB downloaded from its repo [here](https://github.com/g-s-k/matlab-toml).
+
+A sample hexarotor with tilted arms is visualized here:
+
+![Image of hexarotor with tilted arms](example.png)
